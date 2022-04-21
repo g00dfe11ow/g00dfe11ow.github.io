@@ -5,10 +5,10 @@
         <description>漏洞复现 - 分类 - G00dFe11ow</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 21 Apr 2022 14:34:47 &#43;0800</lastBuildDate><atom:link href="https://g00dfe11ow.github.io/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/" rel="self" type="application/rss+xml" /><item>
     <title>CVE-2021-43798复现</title>
-    <link>https://g00dfe11ow.github.io/posts/cve-2021-43798%E5%A4%8D%E7%8E%B0/</link>
+    <link>https://g00dfe11ow.github.io/posts/cve-2021-43798-reproduce/</link>
     <pubDate>Thu, 21 Apr 2022 14:34:47 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://g00dfe11ow.github.io/posts/cve-2021-43798%E5%A4%8D%E7%8E%B0/</guid>
+    <guid>https://g00dfe11ow.github.io/posts/cve-2021-43798-reproduce/</guid>
     <description><![CDATA[上个周末打了*CTF，其中有道题目涉及了CVE-2021-43798——Grafana 8.x 插件模块目录穿越漏洞，比赛时直接用现成的poc就完事]]></description>
 </item></channel>
 </rss>
